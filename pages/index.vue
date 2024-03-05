@@ -13,6 +13,8 @@
 <NuxtLink to="/claudia"> claudia </NuxtLink>
 <NuxtLink to="/ana"> ana </NuxtLink>
 <NuxtLink to="/ines"> ines </NuxtLink>
+<NuxtLink to="/clara"> clara </NuxtLink>
+
 
 
 </template>
